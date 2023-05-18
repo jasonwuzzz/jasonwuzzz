@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jasonwuzzz
-- 👀 I’m interested in Data Science, Artificial Intelligence, Statistics, and Bodybuilding
-- 🌱 I’m currently learning Computer Science Basic by CS50, as well as Data Science Introduction
-- 💞️ I’m looking to collaborate on Machine Learning, Deep Learning
+- 👀 I’m interested in Data Science and Coffee, Muscle Building
+- 🌱 I’m currently learning Data-100 of UC Berkley
+- 💞️ I’m looking to collaborate on drawing funnuy insights from DATA
 - 📫 How to reach me: 229126195wu@gmail.com
 
 <!---
