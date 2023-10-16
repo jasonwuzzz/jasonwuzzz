@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jasonwuzzz
-- 👀 I’m interested in Data Science and Coffee, Muscle Building
-- 🌱 I’m currently learning Data-100 of UC Berkley
-- 💞️ I’m looking to collaborate on drawing funnuy insights from DATA
+- 👀 I’m interested in data science, coffee, muscle building.
+- 🌱 I’m currently learning UCB data-100 and cs61a.
+- 💞️ I’m looking to collaborate on drawing interesting insights from data.
 - 📫 How to reach me: 229126195wu@gmail.com
 
 <!---
